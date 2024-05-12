@@ -20,8 +20,8 @@ To segment the image using global thresholding, adaptive thresholding and Otsu's
 
 ## PROGRAM
 ```
-Developed By : ATHMAJ VENUGOPAL
-Register Number : 212222240014
+Developed By : SHARAN MJ
+Register Number : 212222240097
 ```
 
 ### Load the necessary packages
